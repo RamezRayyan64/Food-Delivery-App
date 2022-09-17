@@ -38,6 +38,7 @@ dependencies:
   firebase_auth: ^3.3.18
   firebase_core: ^1.17.0
   firebase_database: ^9.0.14
+  change_app_package_name: ^1.1.0
 
 dev_dependencies:
   flutter_test:
