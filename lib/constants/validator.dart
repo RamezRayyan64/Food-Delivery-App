@@ -1,6 +1,6 @@
 import 'package:email_validator/email_validator.dart';
-import 'package:food_delivery/constants/lists.dart';
-import 'package:food_delivery/constants/strings.dart';
+import 'package:food_delivery_app_ui/constants/lists.dart';
+import 'package:food_delivery_app_ui/constants/strings.dart';
 
 bool emailValidator(String emailAddress) {
   if (emailAddress != '') {

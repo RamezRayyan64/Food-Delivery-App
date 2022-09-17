@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:food_delivery/constants/colors.dart';
-import 'package:food_delivery/constants/lists.dart';
-import 'package:food_delivery/constants/strings.dart';
-import 'package:food_delivery/constants/validator.dart';
-import 'package:food_delivery/screens/home_screens/home_screen.dart';
-import 'package:food_delivery/widgets/initial_widgets/otp_outlined_textfield.dart';
-import 'package:food_delivery/widgets/initial_widgets/rounded_rectangle_button.dart';
-import 'package:food_delivery/widgets/initial_widgets/top_text.dart';
+import 'package:food_delivery_app_ui/constants/colors.dart';
+import 'package:food_delivery_app_ui/constants/lists.dart';
+import 'package:food_delivery_app_ui/constants/strings.dart';
+import 'package:food_delivery_app_ui/constants/validator.dart';
+import 'package:food_delivery_app_ui/screens/home_screens/home_screen.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/otp_outlined_textfield.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/rounded_rectangle_button.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/top_text.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class ConfirmPhoneNumberScreen extends StatefulWidget {

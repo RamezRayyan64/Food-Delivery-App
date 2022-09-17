@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery/constants/lists.dart';
-import 'package:food_delivery/constants/strings.dart';
-import 'package:food_delivery/screens/home_screens/see_all_screen.dart';
-import 'package:food_delivery/widgets/home_screen_widgets/all_restaurant_widget.dart';
-import 'package:food_delivery/widgets/home_screen_widgets/free_delivery_ad.dart';
-import 'package:food_delivery/widgets/home_screen_widgets/home_screen_top_widget.dart';
-import 'package:food_delivery/widgets/home_screen_widgets/horizontal_list_widget.dart';
+import 'package:food_delivery_app_ui/constants/lists.dart';
+import 'package:food_delivery_app_ui/constants/strings.dart';
+import 'package:food_delivery_app_ui/screens/home_screens/see_all_screen.dart';
+import 'package:food_delivery_app_ui/widgets/home_screen_widgets/all_restaurant_widget.dart';
+import 'package:food_delivery_app_ui/widgets/home_screen_widgets/free_delivery_ad.dart';
+import 'package:food_delivery_app_ui/widgets/home_screen_widgets/home_screen_top_widget.dart';
+import 'package:food_delivery_app_ui/widgets/home_screen_widgets/horizontal_list_widget.dart';
 
 class BottomNavHomeScreen extends StatefulWidget {
   const BottomNavHomeScreen({Key? key}) : super(key: key);

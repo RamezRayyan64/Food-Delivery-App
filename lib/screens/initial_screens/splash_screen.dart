@@ -2,10 +2,10 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:food_delivery/constants/colors.dart';
-import 'package:food_delivery/screens/home_screens/home_screen.dart';
-import 'package:food_delivery/screens/initial_screens/onboarding_screen.dart';
-import 'package:food_delivery/screens/regestration_screens/sign_in_screen.dart';
+import 'package:food_delivery_app_ui/constants/colors.dart';
+import 'package:food_delivery_app_ui/screens/home_screens/home_screen.dart';
+import 'package:food_delivery_app_ui/screens/initial_screens/onboarding_screen.dart';
+import 'package:food_delivery_app_ui/screens/regestration_screens/sign_in_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SplashScreen extends StatefulWidget {

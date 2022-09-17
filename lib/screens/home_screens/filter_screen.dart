@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery/constants/colors.dart';
-import 'package:food_delivery/constants/lists.dart';
-import 'package:food_delivery/widgets/home_screen_widgets/top_title_see_all_widget.dart';
+import 'package:food_delivery_app_ui/constants/colors.dart';
+import 'package:food_delivery_app_ui/constants/lists.dart';
+import 'package:food_delivery_app_ui/widgets/home_screen_widgets/top_title_see_all_widget.dart';
 
 class FilterScreen extends StatefulWidget {
   const FilterScreen({Key? key}) : super(key: key);

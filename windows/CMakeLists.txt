@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(food_delivery LANGUAGES CXX)
+project(food_delivery_app_ui LANGUAGES CXX)
 
-set(BINARY_NAME "food_delivery")
+set(BINARY_NAME "food_delivery_app_ui")
 
 cmake_policy(SET CMP0063 NEW)
 

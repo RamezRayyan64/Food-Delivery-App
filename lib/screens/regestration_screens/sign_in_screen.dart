@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:food_delivery/constants/colors.dart';
-import 'package:food_delivery/constants/lists.dart';
-import 'package:food_delivery/constants/strings.dart';
-import 'package:food_delivery/screens/home_screens/home_screen.dart';
-import 'package:food_delivery/screens/regestration_screens/forgot_password_screen.dart';
-import 'package:food_delivery/screens/regestration_screens/sign_up_screen.dart';
-import 'package:food_delivery/widgets/initial_widgets/other_button.dart';
-import 'package:food_delivery/widgets/initial_widgets/outlined_text_field.dart';
-import 'package:food_delivery/widgets/initial_widgets/rounded_rectangle_button.dart';
-import 'package:food_delivery/widgets/initial_widgets/top_text.dart';
+import 'package:food_delivery_app_ui/constants/colors.dart';
+import 'package:food_delivery_app_ui/constants/lists.dart';
+import 'package:food_delivery_app_ui/constants/strings.dart';
+import 'package:food_delivery_app_ui/screens/home_screens/home_screen.dart';
+import 'package:food_delivery_app_ui/screens/regestration_screens/forgot_password_screen.dart';
+import 'package:food_delivery_app_ui/screens/regestration_screens/sign_up_screen.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/other_button.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/outlined_text_field.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/rounded_rectangle_button.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/top_text.dart';
 
 class SignInScreen extends StatefulWidget {
   const SignInScreen({Key? key}) : super(key: key);

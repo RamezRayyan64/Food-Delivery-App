@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_typing_uninitialized_variables
 
 import 'package:flutter/material.dart';
-import 'package:food_delivery/constants/colors.dart';
-import 'package:food_delivery/constants/strings.dart';
+import 'package:food_delivery_app_ui/constants/colors.dart';
+import 'package:food_delivery_app_ui/constants/strings.dart';
 
 class TopTitleWidget extends StatelessWidget {
   const TopTitleWidget({

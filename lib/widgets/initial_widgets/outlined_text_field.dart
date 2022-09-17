@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_typing_uninitialized_variables
 
 import 'package:flutter/material.dart';
-import 'package:food_delivery/constants/colors.dart';
-import 'package:food_delivery/constants/lists.dart';
+import 'package:food_delivery_app_ui/constants/colors.dart';
+import 'package:food_delivery_app_ui/constants/lists.dart';
 
 class OutlinedTextField extends StatelessWidget {
   const OutlinedTextField({

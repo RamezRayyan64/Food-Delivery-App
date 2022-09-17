@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:food_delivery/constants/colors.dart';
-import 'package:food_delivery/constants/lists.dart';
-import 'package:food_delivery/constants/strings.dart';
-import 'package:food_delivery/screens/regestration_screens/sign_in_screen.dart';
-import 'package:food_delivery/widgets/initial_widgets/rounded_rectangle_button.dart';
-import 'package:food_delivery/widgets/initial_widgets/view_pager.dart';
-import 'package:food_delivery/widgets/initial_widgets/view_pager_dots.dart';
+import 'package:food_delivery_app_ui/constants/colors.dart';
+import 'package:food_delivery_app_ui/constants/lists.dart';
+import 'package:food_delivery_app_ui/constants/strings.dart';
+import 'package:food_delivery_app_ui/screens/regestration_screens/sign_in_screen.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/rounded_rectangle_button.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/view_pager.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/view_pager_dots.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class OnboardingScreen extends StatefulWidget {

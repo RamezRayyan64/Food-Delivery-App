@@ -1,14 +1,14 @@
 // import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:food_delivery/constants/colors.dart';
-import 'package:food_delivery/constants/lists.dart';
-import 'package:food_delivery/constants/strings.dart';
-import 'package:food_delivery/constants/validator.dart';
-import 'package:food_delivery/screens/regestration_screens/confirm_phone_number_screen.dart';
-import 'package:food_delivery/widgets/initial_widgets/outlined_text_field.dart';
-import 'package:food_delivery/widgets/initial_widgets/rounded_rectangle_button.dart';
-import 'package:food_delivery/widgets/initial_widgets/top_text.dart';
+import 'package:food_delivery_app_ui/constants/colors.dart';
+import 'package:food_delivery_app_ui/constants/lists.dart';
+import 'package:food_delivery_app_ui/constants/strings.dart';
+import 'package:food_delivery_app_ui/constants/validator.dart';
+import 'package:food_delivery_app_ui/screens/regestration_screens/confirm_phone_number_screen.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/outlined_text_field.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/rounded_rectangle_button.dart';
+import 'package:food_delivery_app_ui/widgets/initial_widgets/top_text.dart';
 
 class PhoneNumberScreen extends StatefulWidget {
   const PhoneNumberScreen({Key? key}) : super(key: key);

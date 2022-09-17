@@ -1,7 +1,7 @@
-import 'package:food_delivery/screens/home_screens/bottom_nav_screens/bottom_nav_profile_screen.dart';
-import 'package:food_delivery/screens/home_screens/bottom_nav_screens/bottom_nav_home_screen.dart';
-import 'package:food_delivery/screens/home_screens/bottom_nav_screens/bottom_nav_orders_screen.dart';
-import 'package:food_delivery/screens/home_screens/bottom_nav_screens/bottom_nav_search_screen.dart';
+import 'package:food_delivery_app_ui/screens/home_screens/bottom_nav_screens/bottom_nav_profile_screen.dart';
+import 'package:food_delivery_app_ui/screens/home_screens/bottom_nav_screens/bottom_nav_home_screen.dart';
+import 'package:food_delivery_app_ui/screens/home_screens/bottom_nav_screens/bottom_nav_orders_screen.dart';
+import 'package:food_delivery_app_ui/screens/home_screens/bottom_nav_screens/bottom_nav_search_screen.dart';
 
 List onboardingDetailsList = [
   {

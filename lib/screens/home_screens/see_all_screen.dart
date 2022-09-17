@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery/constants/colors.dart';
-import 'package:food_delivery/constants/lists.dart';
-import 'package:food_delivery/constants/strings.dart';
-import 'package:food_delivery/widgets/home_screen_widgets/all_restaurant_widget.dart';
-import 'package:food_delivery/widgets/home_screen_widgets/horizontal_list_widget.dart';
+import 'package:food_delivery_app_ui/constants/colors.dart';
+import 'package:food_delivery_app_ui/constants/lists.dart';
+import 'package:food_delivery_app_ui/constants/strings.dart';
+import 'package:food_delivery_app_ui/widgets/home_screen_widgets/all_restaurant_widget.dart';
+import 'package:food_delivery_app_ui/widgets/home_screen_widgets/horizontal_list_widget.dart';
 
 class SeeAllScreen extends StatefulWidget {
   const SeeAllScreen({Key? key}) : super(key: key);
